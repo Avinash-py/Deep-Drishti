@@ -1,6 +1,6 @@
 # hacathon
 
-A new Flutter project.
+This is DeepDristi application for blind person. In this application you can just click the image and our model will tell the caption about that image.
 
 ## Getting Started
 
